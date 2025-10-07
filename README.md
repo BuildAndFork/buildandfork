@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="170x" src=https://cdn.discordapp.com/attachments/1421957855048634521/1424461131992268810/ChatGPT_Image_Oct_5_2025_07_06_32_PM.png?ex=68e4084f&is=68e2b6cf&hm=e3524ead38cd7681a424b76b8da89014e7acff90247d16cdc4e56952e78716b9& />
+  <img height="170x" src=https://avatars.githubusercontent.com/u/188250378?v=4 />
 
   <h1>Forked Coin</h1>
 
@@ -275,6 +275,7 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 - [Forked Coin Network Documentation](#) (Add your Forked Coin docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
 
 
