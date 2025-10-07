@@ -1,56 +1,56 @@
 <div align="center">
   <img height="170x" src=https://avatars.githubusercontent.com/u/188250378?v=4 />
 
-  <h1>Forked Coin</h1>
+  <h1>Build And Fork</h1>
 
   <p>
     <strong>Unified Multi-Chain Program Framework for BNB Chain Ecosystem</strong>
   </p>
 
   <p>
-    <a href="https://Forked Coin-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
-    <a href="https://discord.gg/Forked Coin"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
-    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Forked Coin/Forked Coin?color=blueviolet" /></a>
+    <a href="https://Build And Fork-lang.com"><img alt="Tutorials" src="https://img.shields.io/badge/docs-tutorials-blueviolet" /></a>
+    <a href="https://discord.gg/Build And Fork"><img alt="Discord Chat" src="https://img.shields.io/discord/889577356681945098?color=blueviolet" /></a>
+    <a href="https://opensource.org/licenses/Apache-2.0"><img alt="License" src="https://img.shields.io/github/license/Build And Fork/Build And Fork?color=blueviolet" /></a>
   </p>
 </div>
 
 ## The Vision
 
-Forked Coin brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Forked Coin and other BNB-based networks, Forked Coin enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
+Build And Fork brings the power of unified blockchain development to the BNB Chain ecosystem. By connecting BNB Smart Chain with Build And Fork and other BNB-based networks, Build And Fork enables developers to create tokens and deploy programs across multiple chains using a single, unified API. Write once, deploy everywhere.
 
-## What is Forked Coin?
+## What is Build And Fork?
 
-Forked Coin is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Forked Coin, and other BNB-compatible networks simultaneously.
+Build And Fork is a groundbreaking framework built for the BNB Chain ecosystem, providing developers with seamless tools for writing multi-chain programs and creating tokens across BNB Smart Chain, Build And Fork, and other BNB-compatible networks simultaneously.
 
-- **Unified API**: One codebase deploys to BNB Smart Chain, Forked Coin, and beyond
+- **Unified API**: One codebase deploys to BNB Smart Chain, Build And Fork, and beyond
 - **Cross-Chain Token Creation**: Create BEP-20 tokens across multiple networks with a single command
 - **Rust & Solidity Support**: Leverage BNB Chain's EVM compatibility with modern development tools
 - **[IDL](https://en.wikipedia.org/wiki/Interface_description_language) specification**: Generate clients for all supported chains
 - **TypeScript package**: Type-safe clients from IDL for multi-chain interaction
 - **CLI and workspace management**: Complete cross-chain application development
 
-Forked Coin is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Forked Coin.
+Build And Fork is the first framework to truly unify development across the BNB Chain ecosystem, including custom BNB-based chains like Build And Fork.
 
 > [!NOTE]
-> Forked Coin brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Forked Coin's unified approach to BNB ecosystem development.
+> Build And Fork brings the best of BNB Chain's speed, affordability, and massive ecosystem. With 0.75s block times, $0.01 average gas fees, and EVM compatibility, if you're familiar with Truffle, Hardhat, or web3.js, you'll feel right at home with Build And Fork's unified approach to BNB ecosystem development.
 
 ## Key Features
 
-- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Forked Coin, and other compatible networks
+- **Single API, Multi-Chain Deployment**: Write your program once, deploy to BNB Smart Chain, Build And Fork, and other compatible networks
 - **Unified Token Standard**: Create BEP-20 tokens that work seamlessly across all BNB-based networks
-- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Forked Coin, and Layer 2 solutions
+- **Cross-Chain State Management**: Synchronize state between BNB Smart Chain, Build And Fork, and Layer 2 solutions
 - **EVM Compatibility**: Full support for Ethereum tooling and smart contracts
 - **Developer Experience**: Familiar Ethereum-like syntax with BNB Chain optimizations and cross-chain superpowers
 - **Lightning Fast**: Leverage BNB Chain's 0.75s block times and 1.875s finality (2025)
 - **Ultra Low Fees**: Deploy and interact with ~$0.01 median gas fees
 
-## Why BNB Chain & Forked Coin?
+## Why BNB Chain & Build And Fork?
 
 ### BNB Smart Chain (2025 Performance)
 BNB Chain achieved remarkable improvements in 2025, reducing block times to 0.75 seconds and transaction finality to 1.875 seconds, while cutting malicious MEV attacks by 95% and dropping average gas fees to $0.01. The network handles 12.4 million daily transactions with peaks of 17.6 million transactions per day.
 
-### Forked Coin - Your Custom BNB-Based Blockchain
-Forked Coin leverages BNB Chain's infrastructure to provide:
+### Build And Fork - Your Custom BNB-Based Blockchain
+Build And Fork leverages BNB Chain's infrastructure to provide:
 - **Custom Network Architecture**: Built on BNB Chain's proven technology
 - **Full EVM Compatibility**: Deploy any Ethereum smart contract
 - **BNB Ecosystem Integration**: Seamless bridging with BSC and other BNB networks
@@ -58,36 +58,36 @@ Forked Coin leverages BNB Chain's infrastructure to provide:
 
 ## Getting Started
 
-For a quickstart guide and in-depth tutorials, see the [Forked Coin book](https://book.Forked Coin-lang.com) and the [Forked Coin documentation](https://Forked Coin-lang.com).
+For a quickstart guide and in-depth tutorials, see the [Build And Fork book](https://book.Build And Fork-lang.com) and the [Build And Fork documentation](https://Build And Fork-lang.com).
 
-To jump straight to examples, go [here](https://github.com/Forked Coin/Forked Coin/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Forked Coin-lang) and the [typedoc](https://www.Forked Coin-lang.com/docs/clients/typescript).
+To jump straight to examples, go [here](https://github.com/Build And Fork/Build And Fork/tree/master/examples). For the latest Rust and TypeScript API documentation, see [docs.rs](https://docs.rs/Build And Fork-lang) and the [typedoc](https://www.Build And Fork-lang.com/docs/clients/typescript).
 
 ## Packages
 
 | Package                 | Description                                              | Version                                                                                                                          | Docs                                                                                                            |
 | :---------------------- | :------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------- | :-------------------------------------------------------------------------------------------------------------- |
-| `Forked Coin-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Forked Coin-lang?color=blue)](https://crates.io/crates/Forked Coin-lang)                     | [![Docs.rs](https://docs.rs/Forked Coin-lang/badge.svg)](https://docs.rs/Forked Coin-lang)                                |
-| `Forked Coin-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Forked Coin-bep?color=blue)](https://crates.io/crates/Forked Coin-bep)                          | [![Docs.rs](https://docs.rs/Forked Coin-bep/badge.svg)](https://docs.rs/Forked Coin-bep)                                  |
-| `Forked Coin-client`         | Rust client for Forked Coin cross-chain programs              | [![crates](https://img.shields.io/crates/v/Forked Coin-client?color=blue)](https://crates.io/crates/Forked Coin-client)                    | [![Docs.rs](https://docs.rs/Forked Coin-client/badge.svg)](https://docs.rs/Forked Coin-client)                            |
-| `@Forked Coin/sdk`           | TypeScript client for Forked Coin programs                    | [![npm](https://img.shields.io/npm/v/@Forked Coin/sdk.svg?color=blue)](https://www.npmjs.com/package/@Forked Coin/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Forked Coin.github.io/Forked Coin/ts/index.html)        |
-| `@Forked Coin/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Forked Coin/cli.svg?color=blue)](https://www.npmjs.com/package/@Forked Coin/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Forked Coin.github.io/Forked Coin/cli/commands.html)    |
+| `Build And Fork-lang`           | Rust primitives for writing cross-chain programs         | [![Crates.io](https://img.shields.io/crates/v/Build And Fork-lang?color=blue)](https://crates.io/crates/Build And Fork-lang)                     | [![Docs.rs](https://docs.rs/Build And Fork-lang/badge.svg)](https://docs.rs/Build And Fork-lang)                                |
+| `Build And Fork-bep`            | CPI clients for BEP-20, BEP-721, and other BNB standards | [![crates](https://img.shields.io/crates/v/Build And Fork-bep?color=blue)](https://crates.io/crates/Build And Fork-bep)                          | [![Docs.rs](https://docs.rs/Build And Fork-bep/badge.svg)](https://docs.rs/Build And Fork-bep)                                  |
+| `Build And Fork-client`         | Rust client for Build And Fork cross-chain programs              | [![crates](https://img.shields.io/crates/v/Build And Fork-client?color=blue)](https://crates.io/crates/Build And Fork-client)                    | [![Docs.rs](https://docs.rs/Build And Fork-client/badge.svg)](https://docs.rs/Build And Fork-client)                            |
+| `@Build And Fork/sdk`           | TypeScript client for Build And Fork programs                    | [![npm](https://img.shields.io/npm/v/@Build And Fork/sdk.svg?color=blue)](https://www.npmjs.com/package/@Build And Fork/sdk)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Build And Fork.github.io/Build And Fork/ts/index.html)        |
+| `@Build And Fork/cli`           | CLI to support building and managing cross-chain apps    | [![npm](https://img.shields.io/npm/v/@Build And Fork/cli.svg?color=blue)](https://www.npmjs.com/package/@Build And Fork/cli)                     | [![Docs](https://img.shields.io/badge/docs-typedoc-blue)](https://Build And Fork.github.io/Build And Fork/cli/commands.html)    |
 
 ## Note
 
-- **Forked Coin is in active development, so all APIs are subject to change.**
+- **Build And Fork is in active development, so all APIs are subject to change.**
 - **This code is unaudited. Use at your own risk.**
 
 ## Examples
 
-Here's a cross-chain counter program that deploys to both BNB Smart Chain and Forked Coin, where only the designated `authority` can increment the count on both networks:
+Here's a cross-chain counter program that deploys to both BNB Smart Chain and Build And Fork, where only the designated `authority` can increment the count on both networks:
 
 ```solidity
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.19;
 
-import "@Forked Coin/contracts/Forked CoinMultiChain.sol";
+import "@Build And Fork/contracts/Build And ForkMultiChain.sol";
 
-contract Counter is Forked CoinMultiChain {
+contract Counter is Build And ForkMultiChain {
     address public authority;
     uint64 public count;
 
@@ -111,7 +111,7 @@ contract Counter is Forked CoinMultiChain {
         emit CounterIncremented(count, block.chainid);
         
         // Sync to other chains
-        _syncToForked Coin(count);
+        _syncToBuild And Fork(count);
         _syncToBSC(count);
     }
 
@@ -124,21 +124,21 @@ contract Counter is Forked CoinMultiChain {
 ### Creating Cross-Chain Tokens
 
 ```bash
-# Create a BEP-20 token on both BNB Smart Chain and Forked Coin with one command
-Forked Coin token create --name "MyToken" --symbol "MTK" --networks bsc,Forked Coin
+# Create a BEP-20 token on both BNB Smart Chain and Build And Fork with one command
+Build And Fork token create --name "MyToken" --symbol "MTK" --networks bsc,Build And Fork
 
 # Deploy to both chains
-Forked Coin deploy --target all
+Build And Fork deploy --target all
 
 # Deploy to specific networks
-Forked Coin deploy --target bsc
-Forked Coin deploy --target Forked Coin
+Build And Fork deploy --target bsc
+Build And Fork deploy --target Build And Fork
 ```
 
 ### Rust Alternative (for non-EVM programs)
 
 ```rust
-use Forked Coin_lang::prelude::*;
+use Build And Fork_lang::prelude::*;
 
 declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 
@@ -182,16 +182,16 @@ pub struct Counter {
 }
 ```
 
-For more, see the [examples](https://github.com/Forked Coin/Forked Coin/tree/master/examples) and [tests](https://github.com/Forked Coin/Forked Coin/tree/master/tests) directories.
+For more, see the [examples](https://github.com/Build And Fork/Build And Fork/tree/master/examples) and [tests](https://github.com/Build And Fork/Build And Fork/tree/master/tests) directories.
 
 ## Architecture
 
-Forked Coin uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Forked Coin, and other BNB-compatible networks. The framework handles:
+Build And Fork uses a unified runtime that translates your program logic into native operations for BNB Smart Chain, Build And Fork, and other BNB-compatible networks. The framework handles:
 
 - **Cross-chain account management**: Seamless state synchronization across BNB networks
 - **Token bridging**: Automatic BEP-20 token creation and management across all chains
 - **Transaction routing**: Intelligent routing to the appropriate network with optimal gas fees
-- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Forked Coin, and beyond
+- **Unified wallet integration**: Single wallet interface for BNB Smart Chain, Build And Fork, and beyond
 - **MEV Protection**: Integrated protection against malicious MEV attacks (95% reduction on BSC)
 - **Gas Optimization**: Leverage BNB Chain's gasless transactions and stablecoin fee payments
 
@@ -203,7 +203,7 @@ In 2025, BNB Chain achieved significant performance milestones including 0.75-se
 
 ### Current (2025)
 - [x] BNB Smart Chain integration
-- [x] Forked Coin network support
+- [x] Build And Fork network support
 - [x] EVM-compatible smart contracts
 - [x] Cross-chain token creation
 - [x] MEV protection integration
@@ -223,11 +223,11 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 ## Supported Networks
 
 - **BNB Smart Chain (BSC)**: The main EVM-compatible chain
-- **Forked Coin**: Your custom BNB-based blockchain
+- **Build And Fork**: Your custom BNB-based blockchain
 - **opBNB**: BNB Chain's Layer 2 solution (coming soon)
 - **BNB Greenfield**: Decentralized storage integration (coming soon)
 
-## Why Choose Forked Coin?
+## Why Choose Build And Fork?
 
 ### For Developers
 - **Familiar Tools**: Use Hardhat, Truffle, Remix, or any Ethereum tooling
@@ -243,26 +243,26 @@ Aligned with BNB Chain's 2026 roadmap targeting 20,000+ TPS with sub-150ms final
 
 ## License
 
-Forked Coin is licensed under [Apache 2.0](./LICENSE).
+Build And Fork is licensed under [Apache 2.0](./LICENSE).
 
-Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Forked Coin by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
+Unless you explicitly state otherwise, any contribution intentionally submitted for inclusion in Build And Fork by you, as defined in the Apache-2.0 license, shall be licensed as above, without any additional terms or conditions.
 
 ## Contribution
 
-Thank you for your interest in contributing to Forked Coin!
+Thank you for your interest in contributing to Build And Fork!
 Please see the [CONTRIBUTING.md](./CONTRIBUTING.md) to learn how.
 
 ## The Future is Multi-Chain
 
-Forked Coin represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
+Build And Fork represents the future of blockchain development: a world where networks work together seamlessly, where developers aren't constrained by chain boundaries, and where users experience the best of the BNB ecosystem through a single, unified interface.
 
-With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Forked Coin is positioned to be the go-to framework for BNB ecosystem development.
+With BNB Chain's commitment to improving transaction speed, streamlining user experience, integrating artificial intelligence, and refining developer tools in 2025 and beyond, Build And Fork is positioned to be the go-to framework for BNB ecosystem development.
 
 ### Thanks ❤️
 
 <div align="center">
-  <a href="https://github.com/Forked Coin/Forked Coin/graphs/contributors">
-    <img src="https://contrib.rocks/image?repo=Forked Coin/Forked Coin" width="100%" />
+  <a href="https://github.com/Build And Fork/Build And Fork/graphs/contributors">
+    <img src="https://contrib.rocks/image?repo=Build And Fork/Build And Fork" width="100%" />
   </a>
 </div>
 
@@ -272,9 +272,10 @@ With BNB Chain's commitment to improving transaction speed, streamlining user ex
 
 - [BNB Chain Official Documentation](https://docs.bnbchain.org/)
 - [BNB Chain 2025 Tech Roadmap](https://www.bnbchain.org/en/blog/bnb-chain-tech-roadmap-2025)
-- [Forked Coin Network Documentation](#) (Add your Forked Coin docs here)
+- [Build And Fork Network Documentation](#) (Add your Build And Fork docs here)
 - [BNB Chain Builder Support Programs](https://www.bnbchain.org/en/programs)
 - [BSC GitHub Repository](https://github.com/bnb-chain/bsc)
+
 
 
 
